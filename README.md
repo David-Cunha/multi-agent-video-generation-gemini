@@ -67,8 +67,7 @@ Este projeto foi projetado para ser executado com o mínimo de configuração no
 
 1.  **Abra no Google Colab:**
     -   Clique no botão abaixo para abrir o notebook diretamente no Google Colab.
-    -   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/seu-repositorio/blob/main/nome_do_notebook.ipynb)
-    -   *(**Atenção:** Substitua `seu-usuario/seu-repositorio` e `nome_do_notebook.ipynb` pelos seus dados reais)*
+    -   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/seu-usuario/seu-repositorio/blob/main/nome_do_notebook.ipynb](https://colab.research.google.com/drive/1FboIJqBMWgWfCgtpFMXZ_xy72fgdxK0C?authuser=2#scrollTo=_wJV-PGuY5z7))
 
 2.  **Configure a API Key:**
     -   No ambiente do Colab, clique no ícone de chave (🗝️) no menu lateral esquerdo.
